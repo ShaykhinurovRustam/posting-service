@@ -1,1 +1,1 @@
-# posting-service
+# Posting Service
